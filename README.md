@@ -2,10 +2,6 @@
 
 ---
 
-    📫 how_to_reach_me = mail at tecsmith dot info;
-
----
-
 ### 🛠 &nbsp; Languages & Tools
 
 <p>
@@ -36,3 +32,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tec-smith&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="right"><img src="./images/super_tecs.png" alt="Visit TECSmith.info" width="200"/></p>
+
+    📫 how_to_reach_me = mail at tecsmith dot info;
