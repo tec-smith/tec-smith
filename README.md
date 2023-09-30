@@ -1,4 +1,4 @@
-<img src="./images/hello.png"  alt="Welcome" width="100"/><br /><img src="https://komarev.com/ghpvc/?username=tec-smith&style=flat-square&color=orange" alt="Visitors"/><br /><a href="./DONATE.md" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy a Coffee" height="41" width="174"></a>
+<img src="./images/hello.png"  alt="Welcome" width="100"/><br /><img src="https://komarev.com/ghpvc/?username=tec-smith&style=flat-square&color=orange" alt="Visitors"/>
 
 ---
 
