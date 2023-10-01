@@ -1,4 +1,4 @@
-![Hello and Welcome!](./images/hello.png "Greeting!")
+![Hello and Welcome!](./images/hello.png "Greetings!")
 
     📫 how_to_reach_me = 'mail at tecsmith dot info';
 
