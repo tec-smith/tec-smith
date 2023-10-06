@@ -1,4 +1,4 @@
-![Hello and Welcome!](./images/hello.png "Greetings!")
+<img src="./images/hello.png" title="Hello and Welcome!" alt="Thomas EC. Smith" width="150" height="150"/>
 
     📫 how_to_reach_me = 'mail at tecsmith dot info';
 
