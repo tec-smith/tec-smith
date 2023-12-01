@@ -1,3 +1,13 @@
+### 🔥 &nbsp; Account Statistics
+
+|    |    |
+|----|----|
+| [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tec-smith&theme=dark&background=000000)](https://git.io/streak-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tec-smith&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) | ![Super TECS](./images/super_tecs.png "Super TECS") |
+
+<img src="https://komarev.com/ghpvc/?username=tec-smith&style=flat-square&color=orange" alt="Visitors"/>
+
+---
+
 <img src="./images/hello.png" title="Hello and Welcome!" alt="Thomas EC. Smith" width="150" height="150"/>
 
     📫 how_to_reach_me = 'mail at tecsmith dot info';
@@ -25,13 +35,3 @@
   ![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=visualstudiocode&logoColor=white&color=2bbc8a)
   ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-2ea44f?style=flat&logo=IntelliJ+IDEA&logoColor=white&color=2bbc8a)
 </p>
-
----
-
-### 🔥 &nbsp; Account Statistics
-
-|    |    |
-|----|----|
-| [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tec-smith&theme=dark&background=000000)](https://git.io/streak-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tec-smith&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) | ![Super TECS](./images/super_tecs.png "Super TECS") |
-
-<img src="https://komarev.com/ghpvc/?username=tec-smith&style=flat-square&color=orange" alt="Visitors"/>
