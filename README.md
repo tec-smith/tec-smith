@@ -6,9 +6,6 @@
 
 <img src="https://komarev.com/ghpvc/?username=tec-smith&style=flat-square&color=orange" alt="Visitors"/>
 
----
-
-<img src="./images/hello.png" title="Hello and Welcome!" alt="Thomas EC. Smith" width="150" height="150"/>
 
     📫 how_to_reach_me = 'mail at tecsmith dot info';
 
